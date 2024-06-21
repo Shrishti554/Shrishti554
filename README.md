@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrishti554 Hello! I am Shrishti, a seasoned Full Stack Developer with a deep-seated passion for exploring and integrating cutting-edge technologies.
+- 👋 Hi, I’m @Shrishti554 , a seasoned Full Stack Developer with a deep-seated passion for exploring and integrating cutting-edge technologies.
       My extensive expertise encompasses both front-end and back-end development, with a particular focus on innovations poised to revolutionize the technological landscape.
       Currently, I am dedicated to advancing my proficiency in pioneering areas such as AWS and other emerging technologies, ensuring I stay at the forefront of industry developments.
      I am keen to collaborate on forward-thinking projects that harness these advancements to deliver impactful and sustainable solutions.
