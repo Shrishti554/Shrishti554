@@ -4,7 +4,11 @@ Hi 👋 My name is Shrishti Arya
 Full Stack Developer
 --------------------------------------------------
 
-I am a seasoned Full Stack Developer with a deep-seated passion for exploring and integrating cutting-edge technologies. My extensive expertise encompasses both front-end and back-end development, with a particular focus on innovations poised to revolutionize the technological landscape. Currently, I am dedicated to advancing my proficiency in pioneering areas such as AWS and other emerging technologies, ensuring I stay at the forefront of industry developments. I am keen to collaborate on forward-thinking projects that harness these advancements to deliver impactful and sustainable solutions. For potential collaborations or inquiries, please feel free to contact me through GitHub or my professional channels.
+I'm a Full Stack Developer who loves diving into new technologies and finding ways to integrate them into my work. I have a strong background in both front-end and back-end development, and I’m particularly interested in innovations that can change the tech landscape.
+
+Right now, I’m focusing on expanding my skills in AWS and other emerging technologies. Staying ahead in this fast-paced field is important to me, and I’m always excited to learn and grow.
+
+If you're interested in collaborating on forward-thinking projects or just want to chat about tech, feel free to reach out to me on GitHub or through my professional channels!
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [shrishtiarya554@gmail.com](mailto:shrishtiarya554@gmail.com)
