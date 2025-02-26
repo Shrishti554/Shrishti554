@@ -8,12 +8,10 @@ I'm a Full Stack Developer who loves diving into new technologies and finding wa
 
 Right now, I’m focusing on expanding my skills in AWS and other emerging technologies. Staying ahead in this fast-paced field is important to me, and I’m always excited to learn and grow.
 
-If you're interested in collaborating on forward-thinking projects or just want to chat about tech, feel free to reach out to me on GitHub or through my professional channels!
-
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [shrishtiarya554@gmail.com](mailto:shrishtiarya554@gmail.com)
 * 🧠  I'm learning about AWS...
-* ⚡  In my leisure time I generally play strategy and Logical games on computer...
+* ⚡  In my leisure time I generally play strategical and logical games on computer...
 
 
 ## Skills
