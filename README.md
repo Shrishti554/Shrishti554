@@ -1,4 +1,4 @@
-Hi 👋 My name is Shrishti Arya
+Hi there 👋 I'm Shrishti Arya
 ==============================
 
 Full Stack Developer
@@ -9,9 +9,14 @@ I'm a Full Stack Developer who loves diving into new technologies and finding wa
 Right now, I’m focusing on expanding my skills in AWS and other emerging technologies. Staying ahead in this fast-paced field is important to me, and I’m always excited to learn and grow.
 
 * 🌍  I'm based in Indore, India
-* ✉️  You can contact me at [shrishtiarya554@gmail.com](mailto:shrishtiarya554@gmail.com)
-* 🧠  I'm learning about AWS...
-* ⚡  In my leisure time I generally play strategical and logical games on computer...
+*  ✉️  Reach me at shrishtiarya554@gmail.com
+*  💼  Currently working as an intern, gaining hands-on experience in full-stack web development
+*  💻  Skilled in HTML, CSS, JavaScript, and experienced with React for building dynamic user interfaces
+*  🧠  Learning AWS and diving deeper into cloud computing and scalable architecture
+*  🔧  Comfortable working with Node.js, REST APIs, databases, SEO, and digital marketing tools
+*   📚  Actively practicing Data Structures and Algorithms (DSA) to strengthen problem-solving and coding logic
+*   ⚡  In my free time, I enjoy playing strategic and logic-based computer games to keep my mind sharp
+*    🤝  Always open to learning, collaborating, and connecting with fellow tech enthusiasts
 
 
 ## Skills
@@ -59,6 +64,6 @@ Right now, I’m focusing on expanding my skills in AWS and other emerging techn
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/shrishti__arya)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Love meeting new folks! If you feel like saying hi, don’t hesitate—I’d be super happy to hear from you!</b> :)</em>
 
 ---
