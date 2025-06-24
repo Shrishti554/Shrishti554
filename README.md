@@ -1,23 +1,29 @@
-Hi there 👋 I'm Shrishti Arya
-==============================
+# 👩‍💻 Shrishti Arya
 
-Full Stack Developer
---------------------------------------------------
+**Full Stack Developer | Cloud Enthusiast | Tech Explorer**  
+📍 Indore, India | 📧 shrishtiarya554@gmail.com
 
-I'm a Full Stack Developer who loves diving into new technologies and finding ways to integrate them into my work. I have a strong background in both front-end and back-end development, and I’m particularly interested in innovations that can change the tech landscape.
+---
 
-Right now, I’m focusing on expanding my skills in AWS and other emerging technologies. Staying ahead in this fast-paced field is important to me, and I’m always excited to learn and grow.
+### 👩‍💻 About Me
 
-* 🌍  I'm based in Indore, India
-*  ✉️  Reach me at shrishtiarya554@gmail.com
-*  💼  Currently working as an intern, gaining hands-on experience in full-stack web development
-*  💻  Skilled in HTML, CSS, JavaScript, and experienced with React for building dynamic user interfaces
-*  🧠  Learning AWS and diving deeper into cloud computing and scalable architecture
-*  🔧  Comfortable working with Node.js, REST APIs, databases, SEO, and digital marketing tools
-*   📚  Actively practicing Data Structures and Algorithms (DSA) to strengthen problem-solving and coding logic
-*   ⚡  In my free time, I enjoy playing strategic and logic-based computer games to keep my mind sharp
-*    🤝  Always open to learning, collaborating, and connecting with fellow tech enthusiasts
+Hey there! I'm Shrishti — a curious and passionate full stack developer with a love for clean code, creative problem-solving, and meaningful digital experiences. I specialize in building both the front and back of the web — with a growing interest in cloud computing and scalable architecture.
 
+I believe in staying curious, experimenting with new tech, and constantly growing through collaboration and real-world learning.
+
+---
+
+### 💼 What I’m Working On
+
+- 🌐 Building responsive and interactive websites using **React**, **JavaScript**, **HTML/CSS**
+- 🌩️ Exploring **AWS** and cloud-based architecture
+- 🧩 Practicing **Data Structures & Algorithms** to sharpen problem-solving skills
+- 🛠️ Working with **Node.js**, **Express**, **MongoDB**, and RESTful APIs
+- 📈 Learning **SEO** and modern **digital marketing tools**
+
+
+
+---
 
 ## Skills
 
@@ -52,7 +58,14 @@ Right now, I’m focusing on expanding my skills in AWS and other emerging techn
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
+---
 
+### ✨ Fun Facts
+
+- ☕ Love brainstorming over a good cup of chai
+- 📚 A big fan of clean design, clean code, and clean documentation!
+
+---
 
 <a href="https://github.com/Shrishti554" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishti554&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -60,6 +73,12 @@ Right now, I’m focusing on expanding my skills in AWS and other emerging techn
 ![](https://github-readme-stats.vercel.app/api?username=Shrishti554&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shrishti554&theme=vision-friendly-dark&hide_border=false)<br/>
 
+### 🤝 Let’s Connect
+
+Always happy to chat, learn, and build something cool together.  
+If you're a fellow developer, a mentor, or someone just curious about tech — let's connect!
+
+📩 **Email:** shrishtiarya554@gmail.com  
 
 
 ## Socials
