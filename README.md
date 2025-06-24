@@ -19,7 +19,7 @@ I believe in staying curious, experimenting with new tech, and constantly growin
 - 🌩️ Exploring **AWS** and cloud-based architecture
 - 🧩 Practicing **Data Structures & Algorithms** to sharpen problem-solving skills
 - 🛠️ Working with **Node.js**, **Express**, **MongoDB**, and RESTful APIs
-- 📈 Learning **SEO** and modern **digital marketing tools**
+
 
 
 
