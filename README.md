@@ -56,6 +56,11 @@ Right now, I’m focusing on expanding my skills in AWS and other emerging techn
 
 <a href="https://github.com/Shrishti554" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishti554&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shrishti554&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shrishti554&theme=vision-friendly-dark&hide_border=false)<br/>
+
+
 
 ## Socials
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github)](https://github.com/Shrishti554)
