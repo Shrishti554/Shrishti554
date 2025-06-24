@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me
 
-Hey there! I'm Shrishti — a curious and passionate full stack developer with a love for clean code, creative problem-solving, and meaningful digital experiences. I specialize in building both the front and back of the web — with a growing interest in cloud computing and scalable architecture.
+Hey there! I'm Shrishti a curious and passionate full stack developer with a love for clean code, creative problem-solving, and meaningful digital experiences. I specialize in building both the front and back of the web with a growing interest in cloud computing and scalable architecture.
 
 I believe in staying curious, experimenting with new tech, and constantly growing through collaboration and real-world learning.
 
