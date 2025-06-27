@@ -1,7 +1,6 @@
 # 👩‍💻 Shrishti Arya
 
 **Full Stack Developer | Cloud Enthusiast | Tech Explorer**  
-📍 Indore, India | 📧 shrishtiarya554@gmail.com
 
 
 
