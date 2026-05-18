@@ -1,6 +1,6 @@
 # 👩‍💻 Shrishti Arya
 
-**Full Stack Developer | Cloud Enthusiast | Tech Explorer**  
+**Software Engineer**  
 
 
 
