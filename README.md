@@ -6,10 +6,7 @@
 
 
 ## 👩‍💻 About Me
-
-Hey there! I'm Shrishti a curious and passionate full stack developer with a love for clean code, creative problem-solving, and meaningful digital experiences. I specialize in building both the front and back of the web with a growing interest in cloud computing and scalable architecture.I believe in staying curious, experimenting with new tech, and constantly growing through collaboration and real-world learning.
-
-
+Hi, I’m Shrishti! A full stack developer who enjoys building user-friendly and practical web applications. I love turning ideas into real projects, solving problems through code, and continuously learning new technologies. I’m especially interested in frontend/backend development, cloud computing, and building scalable applications through hands-on experience.
 
 
 
@@ -59,20 +56,7 @@ Hey there! I'm Shrishti a curious and passionate full stack developer with a lov
 
 
 
-## ✨ Fun Facts
 
-- ☕ Love brainstorming over a good cup of chai
-- 📚 A big fan of clean design, clean code, and clean documentation!
-
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shrishti554&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shrishti554&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishti554&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Let’s Connect
 
